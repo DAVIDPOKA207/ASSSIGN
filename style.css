@@ -1,0 +1,99 @@
+body{
+    padding-left: 0%;
+    padding-right: 0%;
+    background-color: grey;
+}
+
+.you{
+    border: solid red 1px;
+    background-color: red;
+    height: 65px;
+}
+
+/*----- LOGO -----*/
+.you img{
+    width: 4%;
+    padding-left: 15px;
+}
+.you marquee{
+    color: white;
+    text-decoration: solid;
+}
+.you span{
+    color: black;
+}
+
+.main{
+    border: solid black 1px;
+    height: 75px;
+    background-color: black;
+    text-align: right;
+    padding-right: 25px;
+}
+.main p{
+    color: blue;
+    text-decoration: underline 1px;
+    padding-right: 10px;
+}
+.main a{
+    color: white;
+    text-decoration: none;
+    padding-left: 3px;
+    padding-right: 6px;
+}
+.poka h3{
+    padding: -1%;
+    margin-right: auto;
+    text-indent: 10%;
+    color: rgb(245, 242, 237);
+}
+
+.david{
+    padding: -1%;
+}
+
+.david span{
+    color: red;
+    text-indent: 10%;
+}
+.david{
+  text-indent: 10%;
+  margin-top: -18px;
+}
+
+.david p{
+    margin-top: -6px;
+}
+
+.contain img{
+    width: 65%;
+    padding: -4px;
+    margin: -115px;
+}
+
+.contain{
+    padding-left: 865px;
+}
+.poka span{
+    color: black;
+}
+.james a{
+    color: white;
+    background-color: red;
+    width: 5%;
+    padding: 10px;
+    text-decoration: none;
+    padding-left: 30px;
+}
+.james{
+    padding-left: 135px;
+}
+
+/*----Social Media Icon----*/
+.fa img{
+    padding: 25px;
+    width: 28px;
+}
+.fa:hover {
+    opacity: 0.7;
+}
